@@ -1,4 +1,4 @@
-[`简体中文`](docs/README.md) | [`English`](docs/en/README.md)
+[`简体中文`](docs/README.md) | [`English`](docs/en/README.md) | [`日本語`](docs/ja/README.md)
 
 谨以此献给我曾今的挚爱 `W.`
 
